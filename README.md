@@ -15,5 +15,5 @@ Download https://drive.google.com/uc?id=1CHTAaNwyzvbi1TR08MJrJ03BxA266Yxr
 
 ## Steps
 
-*Search* script helps to identify the books that I like
-*Recommendation* script helps to identify the books recommended based on those read by others users with similar tastes as mine
+*Search books* script helps to identify the books that I like  
+*Find recommendations* script helps to identify the books recommended based on those read by others users with similar tastes as mine
