@@ -1,4 +1,5 @@
-# BooksRecommendation  
+# BooksRecommendation 
+This is a guided project done with the help of Vik Paruchuri's DQ video https://www.youtube.com/watch?v=x-alwfgQ-cY&t=1901s 
 
 ## How to get the data  
 
